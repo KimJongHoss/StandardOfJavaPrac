@@ -1,0 +1,18 @@
+package testSearch;
+
+/*
+ * Date : 2024.12.13
+ * Source : AnnotationTest.java
+ * Author : 진득코딩
+ * Email : jinco@gmail.com
+ */
+
+public class AnnotationTest { /* 프로그램의 시작*/
+	
+	public static void main(String[] arg) { //main 메서드의 선언부
+			// 실행될 문장들을 적는다.
+	}
+
+}
+
+
