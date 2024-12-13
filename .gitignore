@@ -48,3 +48,6 @@ release.properties
 
 # .gitignore 파일을 보호하기 위해 무시하지 않음
 !.gitignore
+
+# Eclipse IDE
+.metadata/
