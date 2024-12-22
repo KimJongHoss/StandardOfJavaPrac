@@ -51,3 +51,6 @@ release.properties
 
 # Eclipse IDE
 .metadata/
+
+# 메모장
+studyJava/src/testSearch/Notepad.java
