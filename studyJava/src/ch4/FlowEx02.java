@@ -1,7 +1,7 @@
 package ch4;
 import java.util.*;
 
-public class FlowEx2 {
+public class FlowEx02 {
 	public static void main(String[] args) {
 		int input;
 		
