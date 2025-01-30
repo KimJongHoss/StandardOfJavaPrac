@@ -7,4 +7,4 @@
 
  ch4) 제어문(control statement) : 조건문과 반복문과 관련된 간단한 예제입니다.
 
- ch5) 배열(array) :  
+ ch5) 배열(array) :  배열과 관련된 간단한 예제입니다.
